@@ -8,7 +8,7 @@
  This is a simple calculator functionality achieved using Javascript. The logic is very simple (you can also try it 😅) with the less lines of code possible .
  Feel free to check out the code and don't forget to star the repository.⭐
 
-### [Live Site](https://github.com/keerti1924/Simple-JavaScript-Calculator.git)
+### [Live Site]([(https://keerti1924.github.io/Simple-JavaScript-Calculator/)])
 
 ## Execution:
 - Download the entire repository.
@@ -41,5 +41,7 @@ A simple calculator made using HTML, CSS and JavaScript to perform basic mathema
 
 ## Demo
 
-[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://github.com/keerti1924/Simple-JavaScript-Calculator.git)
+[View Site]([(https://keerti1924.github.io/Simple-JavaScript-Calculator/)])
+[Git Hub Pages]([https://github.com/keerti1924/Simple-JavaScript-Calculator.git)])
+
 
